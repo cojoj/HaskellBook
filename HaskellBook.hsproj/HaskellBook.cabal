@@ -1,0 +1,15 @@
+name: HaskellBook
+version: 1.0
+cabal-version: 1.11
+build-type: Simple
+license: AllRightsReserved
+stability: experimental
+extra-source-files:
+    "Chapter 2/cc.md"
+x-ghc-framework-version: 7.10.3-5.18-1
+x-last-ide-version: HfM1.3.0
+Executable HaskellBook
+  main-is: HaskellBook.hs
+  buildable: True
+  build-depends:
+      base -any
