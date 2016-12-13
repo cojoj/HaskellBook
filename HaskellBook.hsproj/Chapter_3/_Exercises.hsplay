@@ -1,0 +1,29 @@
+-- Haskell Playground 1.0
+-- Exercise 1
+
+-- a
+temp ++ "!"
+
+-- b
+temp !! 4
+
+-- c
+drop 9 temp
+
+-- Exercise 2
+
+addExclamation temp
+takeFourth temp
+dropNineChars temp
+
+-- Exercise 3
+
+thirdLetter temp
+
+-- Exercise 4
+
+letterIndex 4
+
+-- Exercise 5
+
+rvrs

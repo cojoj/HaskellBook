@@ -17,3 +17,4 @@ Executable HaskellBook
       base -any
   other-modules:
       Chapter_2.Exercises
+      Chapter_3.Exercises
