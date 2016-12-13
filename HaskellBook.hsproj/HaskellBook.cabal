@@ -4,12 +4,15 @@ cabal-version: 1.11
 build-type: Simple
 license: AllRightsReserved
 stability: experimental
-extra-source-files:
-    "Chapter 2/cc.md"
-x-ghc-framework-version: 7.10.3-5.18-1
-x-last-ide-version: HfM1.3.0
+data-files:
+    "Chapter 2/chapter_exercises.md"
+    "Chapter 2/comperhension_check.md"
+x-ghc-framework-version: 7.10.3-5.18-2
+x-last-ide-version: HfM1.3.1
 Executable HaskellBook
   main-is: HaskellBook.hs
   buildable: True
   build-depends:
       base -any
+  other-modules:
+      Chapter_2.Exercises

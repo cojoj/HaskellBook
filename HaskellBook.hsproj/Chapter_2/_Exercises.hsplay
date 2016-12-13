@@ -1,0 +1,24 @@
+-- Haskell Playground 1.0
+-- 1
+10 + waxOn
+(+10) waxOn
+(-) 15 waxOn
+(-) waxOn 15
+
+-- 2
+
+triple 3
+
+-- 3
+
+triple waxOn
+
+-- 4
+
+waxOn2
+
+-- 7
+
+waxOff waxOn2
+waxOff 10
+waxOff (-50)
