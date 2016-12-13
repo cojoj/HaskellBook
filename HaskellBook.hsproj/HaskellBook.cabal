@@ -5,8 +5,8 @@ build-type: Simple
 license: AllRightsReserved
 stability: experimental
 data-files:
-    "Chapter 2/chapter_exercises.md"
-    "Chapter 2/comperhension_check.md"
+    "Theoretical Exercises/Chapter 2/chapter_exercises.md"
+    "Theoretical Exercises/Chapter 2/comperhension_check.md"
 x-ghc-framework-version: 7.10.3-5.18-2
 x-last-ide-version: HfM1.3.1
 Executable HaskellBook
