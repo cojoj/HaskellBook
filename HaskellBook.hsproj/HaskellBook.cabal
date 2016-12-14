@@ -5,12 +5,14 @@ build-type: Simple
 license: AllRightsReserved
 stability: experimental
 data-files:
+    "Theoretical Exercises/Chapter 2/chapter_exercises.md"
+    "Theoretical Exercises/Chapter 2/comperhension_check.md"
     "Theoretical Exercises/Chapter 3/reading_syntax.md"
     "Theoretical Exercises/Chapter 4/chapter_exercises.md"
     "Theoretical Exercises/Chapter 4/matching.md"
     "Theoretical Exercises/Chapter 4/correcting_syntax.md"
-    "Theoretical Exercises/Chapter 2/chapter_exercises.md"
-    "Theoretical Exercises/Chapter 2/comperhension_check.md"
+    "Theoretical Exercises/Chapter 5/determine.md"
+    "Theoretical Exercises/Chapter 5/multiple_choice.md"
 x-ghc-framework-version: 7.10.3-5.18-2
 x-last-ide-version: HfM1.3.1
 Executable HaskellBook
@@ -20,4 +22,9 @@ Executable HaskellBook
       base -any
   other-modules:
       Chapter_2.Exercises
+      Chapter_5.Function
+      Chapter_5.DetermineTheType
+      Chapter_5.Signature
+      Chapter_5.Type_kwon_do
+      Chapter_5.DoesItCompile
       Chapter_3.Exercises

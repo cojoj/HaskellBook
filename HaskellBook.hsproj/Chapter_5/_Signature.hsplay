@@ -1,0 +1,4 @@
+-- Haskell Playground 1.0
+functionH "string"
+functionC 1 2
+functionS (1, 2)
