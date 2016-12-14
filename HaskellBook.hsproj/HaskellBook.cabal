@@ -7,6 +7,8 @@ stability: experimental
 data-files:
     "Theoretical Exercises/Chapter 3/reading_syntax.md"
     "Theoretical Exercises/Chapter 4/chapter_exercises.md"
+    "Theoretical Exercises/Chapter 4/matching.md"
+    "Theoretical Exercises/Chapter 4/correcting_syntax.md"
     "Theoretical Exercises/Chapter 2/chapter_exercises.md"
     "Theoretical Exercises/Chapter 2/comperhension_check.md"
 x-ghc-framework-version: 7.10.3-5.18-2
