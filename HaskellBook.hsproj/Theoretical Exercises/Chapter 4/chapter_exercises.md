@@ -16,19 +16,21 @@
     + `4`
     + `False`
     + `True`
-8. 
+8. Code snippet:
     ```haskell
     isPalindrome :: (Eq a) => [a] -> Bool
     isPalindrome x = x == (reverse x)
     ```
-9. 
+
+9. Code snippet:
     ```haskell
     myAbs :: Integer -> Integer
     myAbs x =   if x >= 0
                 then x
                 else x * (-1)
     ```
-10. 
+
+10. Code snippet:
     ```haskell
     f :: (a, b) -> (c, d) -> ((b, d), (a, c))
     f x y = ((snd x, snd y), (fst x, fst y))
