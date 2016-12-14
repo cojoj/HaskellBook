@@ -1,18 +1,18 @@
 # Parenthization
 
-1.  
+1. code:
   ```haskell
   2 + 2 * 3 - 1
   2 + (2 * 3) - 1
   ```
 
-2. 
+2. code:
   ```haskell
   (^) 10 $ 1 + 1
   10 ^ (1 + 1)
   ```
   
-3. 
+3. code:
   ```haskell
   2 ^ 2 * 4 ^ 5 + 1
   (2 ^ 2) * (4 ^ 5) + 1
