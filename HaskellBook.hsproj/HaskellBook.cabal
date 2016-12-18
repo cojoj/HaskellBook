@@ -22,6 +22,10 @@ Executable HaskellBook
   build-depends:
       base -any
   other-modules:
+      Chapter_6.Datatype
+      Chapter_6.Type_kwon_do
+      Chapter_6.Typecheck
+      Chapter_6.Match_the_types
       Chapter_2.Exercises
       Chapter_5.Function
       Chapter_5.DetermineTheType

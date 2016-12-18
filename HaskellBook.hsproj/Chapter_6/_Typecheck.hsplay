@@ -1,0 +1,10 @@
+-- Haskell Playground 1.0
+-- Exercise 1
+printPerson $ Person True
+
+-- Exercise 2
+settleDown Blah
+
+-- Exercise 4
+s1
+s2
