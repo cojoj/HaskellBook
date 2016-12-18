@@ -13,6 +13,7 @@ data-files:
     "Theoretical Exercises/Chapter 4/correcting_syntax.md"
     "Theoretical Exercises/Chapter 5/determine.md"
     "Theoretical Exercises/Chapter 5/multiple_choice.md"
+    "Theoretical Exercises/Chapter 6/multiple_choice.md"
 x-ghc-framework-version: 7.10.3-5.18-2
 x-last-ide-version: HfM1.3.1
 Executable HaskellBook
