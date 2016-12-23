@@ -26,6 +26,7 @@ Executable HaskellBook
       Chapter_6.Type_kwon_do
       Chapter_6.Typecheck
       Chapter_6.Match_the_types
+      Chapter_7.CasePractice
       Chapter_7.GrabBag
       Chapter_2.Exercises
       Chapter_5.Function
