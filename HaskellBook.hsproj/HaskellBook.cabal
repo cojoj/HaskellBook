@@ -28,6 +28,7 @@ Executable HaskellBook
       Chapter_6.Match_the_types
       Chapter_7.CasePractice
       Chapter_7.GrabBag
+      Chapter_7.ArtfulDodgy
       Chapter_2.Exercises
       Chapter_5.Function
       Chapter_5.DetermineTheType
