@@ -15,7 +15,7 @@ data-files:
     "Theoretical Exercises/Chapter 5/multiple_choice.md"
     "Theoretical Exercises/Chapter 6/multiple_choice.md"
 x-ghc-framework-version: 7.10.3-5.18-2
-x-last-ide-version: HfM1.3.1
+x-last-ide-version: HfM1.3.2
 Executable HaskellBook
   main-is: HaskellBook.hs
   buildable: True
@@ -26,6 +26,7 @@ Executable HaskellBook
       Chapter_6.Type_kwon_do
       Chapter_6.Typecheck
       Chapter_6.Match_the_types
+      Chapter_7.GrabBag
       Chapter_2.Exercises
       Chapter_5.Function
       Chapter_5.DetermineTheType
