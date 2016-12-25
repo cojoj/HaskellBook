@@ -5,6 +5,7 @@ build-type: Simple
 license: AllRightsReserved
 stability: experimental
 data-files:
+    "Theoretical Exercises/Chapter 7/MultipleChoice.md"
     "Theoretical Exercises/Chapter 2/chapter_exercises.md"
     "Theoretical Exercises/Chapter 2/comperhension_check.md"
     "Theoretical Exercises/Chapter 3/reading_syntax.md"
