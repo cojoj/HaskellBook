@@ -1,0 +1,17 @@
+-- Haskell Playground 1.0
+-- Exercise 1
+-- woops mrow w0ohoo!
+appedCatty "woohoo!"
+
+-- Exercise 2
+flippy "haha"
+
+-- Exercise 3
+frappe (appedCatty "2")
+
+-- Exercise 4
+appedCatty $ frappe "blue"
+
+-- Exercise 5
+cattyConny (frappe "pink") (cattyConny "green" (appedCatty "blue"))-- Exercise 6
+cattyConny (flippy "Pugs" "are") "awesome"
