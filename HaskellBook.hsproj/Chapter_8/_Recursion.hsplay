@@ -1,0 +1,5 @@
+-- Haskell Playground 1.0
+sumAll 5
+
+multiply 10 (-2)
+multiply 1 10
