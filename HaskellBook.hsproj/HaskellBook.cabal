@@ -31,6 +31,7 @@ Executable HaskellBook
       Chapter_5.Signature
       Chapter_5.Type_kwon_do
       Chapter_5.DoesItCompile
+      Chapter_8.DividedBy
       Chapter_8.Recursion
       Chapter_8.ReviewingCurrying
       Chapter_7.CasePractice
