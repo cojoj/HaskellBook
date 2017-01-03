@@ -35,6 +35,7 @@ Executable HaskellBook
       Chapter_9.MyWords
       Chapter_9.PoemLines
       Chapter_9.DataChar
+      Chapter_9.StandardFunctions
       Chapter_8.Recursion
       Chapter_8.ReviewingCurrying
       Chapter_8.DividedBy

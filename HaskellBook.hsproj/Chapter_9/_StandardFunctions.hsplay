@@ -1,0 +1,17 @@
+-- Haskell Playground 1.0
+myAny even [1, 3, 5]
+myAny odd [1, 3, 5]
+
+myElem 1 [1..10]
+myElem 1 [2..10]
+
+myElemAny 1 [1..10]
+myElemAny 1 [2..10]
+
+myReverse "blah"
+myReverse [1..5]
+
+squish [[1..5],[1..5],[1..5]]
+
+squishMap (\x -> [1, x, 3]) [2]
+squishMap (\x -> "WO "++[x]++" HOO ") "123"
