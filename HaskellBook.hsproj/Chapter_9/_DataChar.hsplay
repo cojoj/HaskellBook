@@ -1,0 +1,8 @@
+-- Haskell Playground 1.0
+-- 1
+:t isUpper
+:t toUpper
+
+capitalize "julie"
+capitalize' "woot"
+capitalizeHead "something"
