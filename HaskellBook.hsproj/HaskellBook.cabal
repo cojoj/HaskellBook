@@ -36,15 +36,16 @@ Executable HaskellBook
       Chapter_9.PoemLines
       Chapter_9.DataChar
       Chapter_9.StandardFunctions
+      Chapter_10.WarmUp
+      Chapter_7.CasePractice
+      Chapter_7.ArtfulDodgy
+      Chapter_7.ChapterExercises
+      Chapter_7.GrabBag
       Chapter_8.Recursion
       Chapter_8.ReviewingCurrying
       Chapter_8.DividedBy
       Chapter_8.McCarthy
       Chapter_8.NumbersIntoWords
-      Chapter_7.CasePractice
-      Chapter_7.ArtfulDodgy
-      Chapter_7.ChapterExercises
-      Chapter_7.GrabBag
       Chapter_6.Datatype
       Chapter_6.Type_kwon_do
       Chapter_6.Typecheck
