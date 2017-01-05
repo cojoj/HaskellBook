@@ -36,6 +36,7 @@ Executable HaskellBook
       Chapter_9.PoemLines
       Chapter_9.DataChar
       Chapter_9.StandardFunctions
+      Chapter_10.StandardFunctions
       Chapter_10.WarmUp
       Chapter_7.CasePractice
       Chapter_7.ArtfulDodgy
