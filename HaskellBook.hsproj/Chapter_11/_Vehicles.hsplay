@@ -1,0 +1,14 @@
+-- Haskell Playground 1.0
+-- 1
+-- Vehicle
+:t myCar
+
+-- 2
+isCar myCar
+isCar doge
+
+areCars [myCar, urCar, clownCar, doge]
+
+-- 3 
+getManu myCar
+getManu doge
