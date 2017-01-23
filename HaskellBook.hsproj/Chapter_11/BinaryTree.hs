@@ -38,3 +38,9 @@ inorder (Node left a right) = preorder left ++ [a] ++ preorder right
 postorder :: BinaryTree a -> [a]
 postorder Leaf = []
 postorder (Node left a right) = preorder left ++ preorder right ++ [a]
+
+-- Fold
+
+foldTree :: (a -> b -> b) -> b -> BinaryTree a -> b
+foldTree _ acc Leaf = acc
+foldTree f acc tree = foldr f acc $ inorder tree
