@@ -12,7 +12,7 @@ insert' b (Node left a right)
     | b < a     = Node (insert' b left) a right
     | b > a     = Node left a (insert' b right)
     
---------
+-- Map
 
 mapTree :: (a -> b) -> BinaryTree a -> BinaryTree b
 mapTree _ Leaf = Leaf
