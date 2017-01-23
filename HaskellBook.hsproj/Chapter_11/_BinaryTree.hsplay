@@ -1,2 +1,5 @@
 -- Haskell Playground 1.0
 mapTree (+1) testTree'
+preorder testTree
+inorder testTree
+postorder testTree
