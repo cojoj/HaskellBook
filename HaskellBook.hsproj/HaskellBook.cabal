@@ -25,6 +25,7 @@ Executable HaskellBook
       base -any
   other-modules:
       Chapter_3.Exercises
+      Chapter_11.LogicGoats
       Chapter_11.Vehicles
       Chapter_2.Exercises
       Chapter_5.Function
