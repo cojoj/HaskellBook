@@ -24,7 +24,10 @@ Executable HaskellBook
   build-depends:
       base -any
   other-modules:
-      Chapter_3.Exercises
+      Chapter_6.Datatype
+      Chapter_6.Type_kwon_do
+      Chapter_6.Typecheck
+      Chapter_6.Match_the_types
       Chapter_11.BinaryTree
       Chapter_11.LogicGoats
       Chapter_11.Vehicles
@@ -34,6 +37,7 @@ Executable HaskellBook
       Chapter_5.Signature
       Chapter_5.Type_kwon_do
       Chapter_5.DoesItCompile
+      Chapter_12.StringProcessing
       Chapter_9.Cipher
       Chapter_9.MyWords
       Chapter_9.PoemLines
@@ -50,7 +54,4 @@ Executable HaskellBook
       Chapter_8.DividedBy
       Chapter_8.McCarthy
       Chapter_8.NumbersIntoWords
-      Chapter_6.Datatype
-      Chapter_6.Type_kwon_do
-      Chapter_6.Typecheck
-      Chapter_6.Match_the_types
+      Chapter_3.Exercises

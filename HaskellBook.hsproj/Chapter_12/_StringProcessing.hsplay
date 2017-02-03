@@ -1,0 +1,6 @@
+-- Haskell Playground 1.0
+notThe "the"
+notThe "blahtheblah"
+notThe "woot"
+
+replaceThe "the cow loves us"
