@@ -40,6 +40,7 @@ Executable HaskellBook
       Chapter_12.ValidateTheWord
       Chapter_12.StringProcessing
       Chapter_12.Natural
+      Chapter_12.Maybe
       Chapter_9.Cipher
       Chapter_9.MyWords
       Chapter_9.PoemLines
