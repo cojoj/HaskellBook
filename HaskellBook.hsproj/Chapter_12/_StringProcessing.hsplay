@@ -4,3 +4,9 @@ notThe "blahtheblah"
 notThe "woot"
 
 replaceThe "the cow loves us"
+
+countTheBeforeVowel "the cow"
+countTheBeforeVowel "the evil cow"
+
+countVowels "the cow"
+countVowels "Mikolajczak"
