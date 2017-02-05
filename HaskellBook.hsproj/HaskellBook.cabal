@@ -37,6 +37,7 @@ Executable HaskellBook
       Chapter_5.Signature
       Chapter_5.Type_kwon_do
       Chapter_5.DoesItCompile
+      Chapter_12.ValidateTheWord
       Chapter_12.StringProcessing
       Chapter_9.Cipher
       Chapter_9.MyWords
