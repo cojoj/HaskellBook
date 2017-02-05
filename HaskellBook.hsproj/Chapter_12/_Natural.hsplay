@@ -1,0 +1,9 @@
+-- Haskell Playground 1.0
+natToInteger Zero
+natToInteger (Succ Zero)
+natToInteger (Succ (Succ Zero))
+
+integerToNat 0
+integerToNat 1
+integerToNat 2
+integerToNat (-1)
