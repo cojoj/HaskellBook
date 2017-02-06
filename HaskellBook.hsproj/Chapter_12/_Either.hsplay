@@ -1,0 +1,8 @@
+-- Haskell Playground 1.0
+let eithers = [Right 0, Left 5, Right 4, Left 1]
+
+lefts' eithers
+rights' eithers
+partitionEithers' eithers
+eitherMaybe' id $ Right 0
+either' id id $ Right 1
