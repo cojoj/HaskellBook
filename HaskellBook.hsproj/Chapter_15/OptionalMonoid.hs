@@ -10,3 +10,4 @@ instance Monoid a => Monoid (Optional a) where
     mappend Nada _ = Nada
     mappend _ Nada = Nada
     mappend (Only a) (Only b) = Only $ a <> b
+    

@@ -22,7 +22,9 @@ Executable HaskellBook
   main-is: HaskellBook.hs
   buildable: True
   build-depends:
-      base -any
+      base -any,
+      QuickCheck -any,
+      semigroups -any
   other-modules:
       Chapter_6.Datatype
       Chapter_6.Type_kwon_do
@@ -58,5 +60,6 @@ Executable HaskellBook
       Chapter_8.DividedBy
       Chapter_8.McCarthy
       Chapter_8.NumbersIntoWords
+      Chapter_15.Semigroup
       Chapter_15.OptionalMonoid
       Chapter_3.Exercises
