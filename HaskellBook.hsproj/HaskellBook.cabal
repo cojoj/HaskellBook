@@ -28,6 +28,7 @@ Executable HaskellBook
   other-modules:
       Chapter_16.HeavyLifting
       Chapter_16.InstancesOfFunc
+      Chapter_16.Possibly
       Chapter_11.BinaryTree
       Chapter_11.LogicGoats
       Chapter_11.Vehicles
