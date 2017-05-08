@@ -27,6 +27,7 @@ Executable HaskellBook
       semigroups -any
   other-modules:
       Chapter_16.HeavyLifting
+      Chapter_16.InstancesOfFunc
       Chapter_11.BinaryTree
       Chapter_11.LogicGoats
       Chapter_11.Vehicles

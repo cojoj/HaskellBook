@@ -1,0 +1,4 @@
+-- Haskell Playground 1.0
+quickCheck (functorCompose :: IntFC)
+quickCheck $ \x -> functorIdentity (x :: [Int])
+quickCheck (functorIdentity :: [Int] -> Bool)
