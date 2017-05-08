@@ -26,6 +26,7 @@ Executable HaskellBook
       QuickCheck -any,
       semigroups -any
   other-modules:
+      Chapter_17.Lookups
       Chapter_16.HeavyLifting
       Chapter_16.Either
       Chapter_16.InstancesOfFunc
