@@ -16,8 +16,8 @@ data-files:
     "Theoretical Exercises/Chapter 5/determine.md"
     "Theoretical Exercises/Chapter 5/multiple_choice.md"
     "Theoretical Exercises/Chapter 6/multiple_choice.md"
-x-ghc-framework-version: 7.10.3-5.18-2
-x-last-ide-version: HfM1.3.2
+x-ghc-framework-version: 7.10.3-6.29-1
+x-last-ide-version: HfM1.4.0
 Executable HaskellBook
   main-is: HaskellBook.hs
   buildable: True
@@ -26,10 +26,7 @@ Executable HaskellBook
       QuickCheck -any,
       semigroups -any
   other-modules:
-      Chapter_6.Datatype
-      Chapter_6.Type_kwon_do
-      Chapter_6.Typecheck
-      Chapter_6.Match_the_types
+      Chapter_16.HeavyLifting
       Chapter_11.BinaryTree
       Chapter_11.LogicGoats
       Chapter_11.Vehicles
@@ -44,6 +41,15 @@ Executable HaskellBook
       Chapter_12.Either
       Chapter_12.Natural
       Chapter_12.Maybe
+      Chapter_7.CasePractice
+      Chapter_7.ArtfulDodgy
+      Chapter_7.ChapterExercises
+      Chapter_7.GrabBag
+      Chapter_6.Datatype
+      Chapter_6.Type_kwon_do
+      Chapter_6.Typecheck
+      Chapter_6.Match_the_types
+      Chapter_3.Exercises
       Chapter_9.Cipher
       Chapter_9.MyWords
       Chapter_9.PoemLines
@@ -51,10 +57,6 @@ Executable HaskellBook
       Chapter_9.StandardFunctions
       Chapter_10.StandardFunctions
       Chapter_10.WarmUp
-      Chapter_7.CasePractice
-      Chapter_7.ArtfulDodgy
-      Chapter_7.ChapterExercises
-      Chapter_7.GrabBag
       Chapter_8.Recursion
       Chapter_8.ReviewingCurrying
       Chapter_8.DividedBy
@@ -62,4 +64,3 @@ Executable HaskellBook
       Chapter_8.NumbersIntoWords
       Chapter_15.Semigroup
       Chapter_15.OptionalMonoid
-      Chapter_3.Exercises
