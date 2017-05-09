@@ -1,0 +1,6 @@
+-- Haskell Playground 1.0
+quickBatch $ monoid Twoo
+quickBatch $ applicative [("b", "w", 1)]
+
+let trigger = undefined :: [(String, String, Int)]
+quickBatch (applicative trigger)
