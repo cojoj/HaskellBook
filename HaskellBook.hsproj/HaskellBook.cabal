@@ -27,6 +27,7 @@ Executable HaskellBook
       semigroups -any
   other-modules:
       Chapter_17.Lookups
+      Chapter_17.Identity
       Chapter_16.HeavyLifting
       Chapter_16.Either
       Chapter_16.InstancesOfFunc
