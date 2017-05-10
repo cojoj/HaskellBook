@@ -66,6 +66,7 @@ Executable HaskellBook
       Chapter_9.StandardFunctions
       Chapter_10.StandardFunctions
       Chapter_10.WarmUp
+      Chapter_18.Monad
       Chapter_8.Recursion
       Chapter_8.ReviewingCurrying
       Chapter_8.DividedBy
