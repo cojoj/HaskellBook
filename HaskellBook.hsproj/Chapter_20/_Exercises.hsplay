@@ -1,0 +1,6 @@
+-- Haskell Playground 1.0
+foldMap Sum (Constant 1)
+foldMap Any (Constant 1)
+foldMap (\x -> Any True) (Constant 1)
+foldMap Sum (Two 1 2)
+foldMap Sum (Four' 1 2 3 4)
