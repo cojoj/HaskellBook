@@ -74,3 +74,4 @@ Executable HaskellBook
       Chapter_8.NumbersIntoWords
       Chapter_15.Semigroup
       Chapter_15.OptionalMonoid
+      Chapter_20.LibraryFunctions
