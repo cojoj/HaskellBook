@@ -50,6 +50,7 @@ Executable HaskellBook
       Chapter_12.Either
       Chapter_12.Natural
       Chapter_12.Maybe
+      Chapter_21.Exercises
       Chapter_21.QualityControl
       Chapter_7.CasePractice
       Chapter_7.ArtfulDodgy
