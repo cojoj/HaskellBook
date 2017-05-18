@@ -50,15 +50,16 @@ Executable HaskellBook
       Chapter_12.Either
       Chapter_12.Natural
       Chapter_12.Maybe
+      Chapter_21.QualityControl
       Chapter_7.CasePractice
       Chapter_7.ArtfulDodgy
       Chapter_7.ChapterExercises
       Chapter_7.GrabBag
+      Chapter_3.Exercises
       Chapter_6.Datatype
       Chapter_6.Type_kwon_do
       Chapter_6.Typecheck
       Chapter_6.Match_the_types
-      Chapter_3.Exercises
       Chapter_9.Cipher
       Chapter_9.MyWords
       Chapter_9.PoemLines
